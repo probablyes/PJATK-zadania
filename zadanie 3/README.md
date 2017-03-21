@@ -6,16 +6,16 @@ Program wypisuje na konsoli:
 	w trzecim wierszu - indeksy tablicy gdzie ta wartoœæ siê znajduje. 
 	
 Przyk³adowo, jeœli plik {usenhome)/tab.txt zawiera: 
-1 5 5 3 
--1 2 5 4 
+	1 5 5 3 
+	-1 2 5 4 
 to na konsoli otrzymujemy: 
-1 5 5 3 -1 2 5 4 
-5 
-1 2 6 
+	1 5 5 3 -1 2 5 4 
+	5 
+	1 2 6 
 
 W przypadku wyst¹pienia b³êdów (np. brak pliku, wadliwe dane) nale¿y obs³u¿yæ b³¹d - wypisaæ na konsoli TYLKO trzy gwiazdki: 
 
-*** 
+	*** 
 i zakoñczyæ dzia³anie programu. 
 Nazwa pliku, jego umiejscowienie i postaæ oraz postaæ wyniku na konsoli jest obowi¹zkowa. Rozwi¹zanie nie spe³niaj¹ce tych wymagañ otrzymuj¹ O punktów. Uwaga: proszê w ¿adnym razie nie linkowaæ pliku jako zasobu do projektu Eclipse. 
 
