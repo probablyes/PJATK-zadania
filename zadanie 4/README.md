@@ -1,3 +1,5 @@
+#Zadanie 4
+
 Wczytaæ tekst z pliku {usenhome}/textforwords.txt i policzyæ liczbê wsyt¹pieñ poszczególnych s³ów. Do zliczania wyst¹pieñ przygotowaæ klasê CountWords w taki sposób, aby nastêpuj¹cy program, zapisany w pliku Main.java: 
 
 import java.util.'; 

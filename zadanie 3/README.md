@@ -1,3 +1,5 @@
+#Zadanie 3
+
 Napisaæ program, który z pliku {user.home}/tab.txt wczytuje liczby ca³kowite (liczby w pliku s¹ rozdzielone dowolnymi bia³ymi znakami) i tworzy tablicê, zawieraj¹c¹ te liczby . W tak zainicjowanej tablicy program znajduje wartoœæ maksymaln¹ oraz wszystkie indeksy w tablicy gdzie taka wartoœæ siê znajduje. 
 
 Program wypisuje na konsoli: 
