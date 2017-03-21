@@ -13,7 +13,7 @@ import java.util.';
 				System.out.println(wordRes); 				
 ```
 
-wyprowadzi³ w kolejnych wierszach kolejne s³owa (w kolejnoœci ich wystêpowania w pliku) z nastêpuj¹c¹ po spacji liczb¹ ich wyst¹pieñ. Na przyk³ad dla tekstu z pliku: 
+wyprowadzi³ w kolejnych wierszach kolejne s³owa (w kolejnoœci ich wystêpowania w pliku) z nastêpuj¹c¹ po spacji liczb¹ ich wyst¹pieñ. Na przyk³ad dla tekstu z pliku:  
 abc def abc ghi def
 
 na konsoli winniœmy zobaczyæ nastêpuj¹ce wiersze: 
