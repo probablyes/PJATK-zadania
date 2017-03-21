@@ -17,10 +17,10 @@ wyprowadzi³ w kolejnych wierszach kolejne s³owa (w kolejnoœci ich wystêpowania w
 abc def abc ghi def
 
 na konsoli winniœmy zobaczyæ nastêpuj¹ce wiersze: 
-
-abc 2 
-def 2 
-ghi 1 
+  
+abc 2   
+def 2   
+ghi 1   
 
 Uwagi: 
 1. Pliku Main.java nie wolno modyfikowaæ. 2. Nazwa i umiejscowienie (katalog) pliku z tekstem s¹ obowi¹zkowe 3. S³owa - to ci¹gi znaków rozdzielone bia³ymi znakami i/lub znakami interpunkcji 
