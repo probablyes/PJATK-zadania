@@ -25,27 +25,18 @@ public class Test {
 w taki sposób, aby otrzymaæ w wyniku nastêpuj¹cy wydruk:  
 
 Muzyk: Jan
-
 Instrument: fortepian
-
 Czas wyst¹pienia: 1.5 godz. 
-
 Stawka godzinowa: 500  
 
 Muzyk: Adam
-
 Instrument: flet
-
 Czas wyst¹pienia: 1.0 godz. 
-
 Stawka godzinowa: 250  
 
 Muzyk: Sebastian
-
 Instrument: bêben
-
 Czas wyst¹pienia: 0.5 godz. 
-
 Stawka godzinowa: 600  
 
 Jan, czas = 1.5 godz., stawka = 500  
