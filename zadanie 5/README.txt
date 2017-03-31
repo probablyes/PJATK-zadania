@@ -1,6 +1,7 @@
 # Zdefiniowaæ klasy z poni¿szego programu:  
 
-```public class Test {
+```
+public class Test {
 
     public static void main(String[] args) {
     
@@ -17,6 +18,7 @@
 	 
     }
 }
+
 ```  
 w taki sposób, aby otrzymaæ w wyniku nastêpuj¹cy wydruk:  
 
