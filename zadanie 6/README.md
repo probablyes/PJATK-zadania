@@ -88,28 +88,28 @@ Aplikacja wymaga zdefiniowania kilku klas i umiejêtnego ich u¿ycia, w taki sposó
           }
         }
 ```		
-Program ten wyprowadzi na konsolê:  
-Przed p³aceniem Wózek w³asciciel Janek
-ró¿a, kolor: czerwony, iloœæ 5, cena 10.0
-piwonia, kolor: czerwony, iloœæ 5, cena 8.0
-frezja, kolor: ¿ó³ty, iloœæ 3, cena -1.0
-bez, kolor: bia³y, iloœæ 3, cena 12.0
-Po zap³aceniu Wózek w³asciciel Janek
-ró¿a, kolor: czerwony, iloœæ 5, cena 10.0
-piwonia, kolor: czerwony, iloœæ 5, cena 8.0
-bez, kolor: bia³y, iloœæ 3, cena 12.0
-Jankowi zosta³o : 74.0 z³
-Po zapakowaniu do pude³ka Wózek w³asciciel Janek -- pusto
-Pude³ko w³asciciel Janek
-ró¿a, kolor: czerwony, iloœæ 5, cena 10.0
-piwonia, kolor: czerwony, iloœæ 5, cena 8.0
-bez, kolor: bia³y, iloœæ 3, cena 12.0
-Czerwone kwiaty w pude³ku Janka kosztowa³y: 90
-Wózek w³asciciel Stefan
-bez, kolor: bia³y, iloœæ 3, cena 12.0
-ró¿a, kolor: czerwony, iloœæ 5, cena 10.0
-Pude³ko w³asciciel Stefan
-bez, kolor: bia³y, iloœæ 3, cena 12.0
+Program ten wyprowadzi na konsolê:    
+Przed p³aceniem Wózek w³asciciel Janek  
+ró¿a, kolor: czerwony, iloœæ 5, cena 10.0  
+piwonia, kolor: czerwony, iloœæ 5, cena 8.0  
+frezja, kolor: ¿ó³ty, iloœæ 3, cena -1.0  
+bez, kolor: bia³y, iloœæ 3, cena 12.0  
+Po zap³aceniu Wózek w³asciciel Janek  
+ró¿a, kolor: czerwony, iloœæ 5, cena 10.0  
+piwonia, kolor: czerwony, iloœæ 5, cena 8.0  
+bez, kolor: bia³y, iloœæ 3, cena 12.0  
+Jankowi zosta³o : 74.0 z³  
+Po zapakowaniu do pude³ka Wózek w³asciciel Janek -- pusto  
+Pude³ko w³asciciel Janek  
+ró¿a, kolor: czerwony, iloœæ 5, cena 10.0  
+piwonia, kolor: czerwony, iloœæ 5, cena 8.0  
+bez, kolor: bia³y, iloœæ 3, cena 12.0  
+Czerwone kwiaty w pude³ku Janka kosztowa³y: 90  
+Wózek w³asciciel Stefan  
+bez, kolor: bia³y, iloœæ 3, cena 12.0  
+ró¿a, kolor: czerwony, iloœæ 5, cena 10.0  
+Pude³ko w³asciciel Stefan  
+bez, kolor: bia³y, iloœæ 3, cena 12.0  
 Stefanowi zosta³o : 24.0 z³    
 
 

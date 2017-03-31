@@ -2,7 +2,7 @@
 
 Zdefiniowaæ klasy z poni¿szego programu:  
 
-```
+```java
 public class Test {
 
     public static void main(String[] args) {
