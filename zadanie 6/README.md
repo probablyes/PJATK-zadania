@@ -88,8 +88,8 @@ Aplikacja wymaga zdefiniowania kilku klas i umiejêtnego ich u¿ycia, w taki sposó
           }
         }
 ```		
-Program ten wyprowadzi na konsolê:    
-Przed p³aceniem Wózek w³asciciel Janek  
+Program ten wyprowadzi na konsolê:  
+  Przed p³aceniem Wózek w³asciciel Janek  
 ró¿a, kolor: czerwony, iloœæ 5, cena 10.0  
 piwonia, kolor: czerwony, iloœæ 5, cena 8.0  
 frezja, kolor: ¿ó³ty, iloœæ 3, cena -1.0  
