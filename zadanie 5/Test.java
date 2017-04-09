@@ -22,31 +22,4 @@ public class Test {
                          "Stawka godzinowa: " + m.stawka() + '\n');
 
     System.out.println(Muzyk.maxHonorarium(muzycy));  // muzyk otrzymujacy najwyzsze honorarium za wystep
-    
-    int array[] = {-1, 0 , 1, 2};
-    int array2[] = new int [array.length];
-    for (int i = 0; i < array.length-1; i++) {
-		array2[i] = array[i+1] - array[i];
-	}
-    //System.out.println(Arrays.toString(array2));
-    int counter = 0;
-    for (int i = 0; i < array2.length-1; i++) {
-		if(array2[i]==array2[i+1]){
-			counter++;
-		}
-	}
-    //System.out.println("counter " + counter);
-    if(counter==array2.length-2){
-    	System.out.println("Arytmetyczny");
-    }else{
-    	System.out.println("Nie jest arytmetyczny");
-    }
-    
-    char tab[][] = {{'X','X','X'}, 
-    				  {' ','O','O'},
-    				  {' ','O','O'}};
-    
-    System.out.println(tab[1][1]);
-    
-  }
-}
+   }
