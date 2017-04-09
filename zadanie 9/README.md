@@ -2,7 +2,7 @@
 
 Ci¹g Collatza (znany te¿ jako „hailstone sequence” lub ci¹g Ulama) to ci¹g liczb naturalnych rozpoczynaj¹cy siê od dowolnej liczby a0, którego kolejne wyrazy obliczane s¹ wed³ug zasady  
 
-![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/374331bd9054c2e3fd22e0c98e5d691cd425da2e "wzor ciagu")
+![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e406fc6c9c5a2b4f8a857069aa9c440c9fcbe7b"wzor ciagu")
   
 Istnieje hipoteza, ¿e taki ci¹g zawsze dojdzie do liczby 1 (i potem bêdzie ju¿ periodyczny: 1,4,2,1,4,2,1,4,...). Zosta³a ona sprawdzona a¿ do astronomicznie wielkich liczb, ale do tej pory nie uda³o siê jej udowodniæ.  
 Na przyk³ad, jeœli rozpoczniemy od liczby 5, otrzymamy ci¹g [5,16,8,4,2,1,...], a rozpoczynaj¹c od 7 otrzymamy ju¿ ci¹g d³u¿szy: [7,22,11,34,17,52,26,13,40,20,10,5,16,8,4,2,1,...].  
