@@ -23,3 +23,4 @@ public class Test {
 
     System.out.println(Muzyk.maxHonorarium(muzycy));  // muzyk otrzymujacy najwyzsze honorarium za wystep
    }
+}
