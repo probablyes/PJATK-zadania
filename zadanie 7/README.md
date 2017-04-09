@@ -1,5 +1,5 @@
 
-#Zadanie. Œpiewacy z klas¹ abstrakcyjn¹ (4 punkty)  
+# Zadanie 7. Œpiewacy z klas¹ abstrakcyjn¹ (4 punkty)  
 Zdefiniowaæ klasê abstrakcyjn¹ Spiewak reprezentuj¹c¹ œpiewaków. Ka¿dy œpiewak posiada nazwisko oraz numer startowy (np. w konkursie talentów), nadany automatycznie przy tworzeniu obiektu. Klasa Spiewak powinna posiadaæ m.in. konstruktor Spiewak(String nazwisko) oraz nastêpuj¹ce metody:  
   
 a. abstrakcyjn¹: abstract String spiewaj(), która docelowo zwraca tekst œpiewany przez œpiewaka w konkursie.  
@@ -42,9 +42,10 @@ public class Main {
 
 wyprowadzi³a prawid³ow¹ informacjê dok³adnie jak poni¿ej:  
   
-(1) Carrey: oooooooooooo
-(2) Houston: a4iBBiii
-(3) Madonna: aAa  
-  
+(1) Carrey: oooooooooooo  
 (2) Houston: a4iBBiii  
+(3) Madonna: aAa  
+    
+(2) Houston: a4iBBiii  
+  
 Wa¿ne: Kod klas Main utworzony przez generator mo¿e (i musi) byæ zmieniony tylko w miejscach zaznaczonych na zielono. Inne modyfikacje tego kodu nie s¹ dopuszczalne i bêd¹ skutkowaæ uzyskaniem 0 punktów.
