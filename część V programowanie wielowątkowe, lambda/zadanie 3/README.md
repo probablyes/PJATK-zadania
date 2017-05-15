@@ -21,3 +21,5 @@ Testowanie:
 3. Program zakoñczy dzia³anie po okreœlonym czasie 15s.  
   
 W trakcie dzia³ania, program powinien wyprowadzaæ na zewn¹trz jak najwiêcej informacji, aby mo¿na by³o œledziæ jego przebieg.
+
+### Wersja A - wersja B wys³ana w innym pliku

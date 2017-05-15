@@ -26,5 +26,5 @@ public class Main {
         System.out.println(ini + " " + count + " " + maxel);
     }
 }
-```java
+```
 Powinien on wypisaæ, w jednej linii, oddzielone spacjami, trzy liczby: wartoœæ startow¹ (ini; w tym przyk³adzie 77031), iloœæ kroków wykonanych do osi¹gniêcia jedynki (count), oraz najwiêkszy wyraz tego ci¹gu (maxel). Na przyk³ad dla wartoœci startowej 10, ci¹g, a¿ do uzyskania jedynki, zawiera³by elementy [10 5 16 8 4 2 1], a zatem trzy liczby, które wtedy wypisa³by program mia³yby wartoœci 10 6 16.
