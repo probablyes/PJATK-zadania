@@ -40,12 +40,10 @@ public abstract class Spiewak {
 			tab[i].liczbaLiter = counter;
 			}
 
-		Arrays.sort(tab,new Comparator<Spiewak>(){  
-		    @Override  
-		    public int compare(Spiewak p1, Spiewak p2){  
-		         return p2.liczbaLiter - p1.liczbaLiter;  
-		   }  
-		} ); 
+		Arrays.sort(tab, (a, b) -> {			
+			return a.liczbaLiter - b.liczbaLiter;			
+		}); 
+		
 		String s = "(" + tab[0].numerStartowy + ") " + tab[0].nazwisko + tab[0].glos; 
 		return s;
 		
