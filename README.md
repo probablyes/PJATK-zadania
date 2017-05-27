@@ -1,3 +1,3 @@
 # PJATK-zadania  
 
-Moje rozwiązania zadań z przedmiotu Programowanie obiektowe i GUI.
+Napisane przeze mnie programy na zaliczenie z przedmiotu Programowanie obiektowe i GUI. Uporządkowane wg. kolejności zajęć. Do tej pory ponad 90% punktów.
