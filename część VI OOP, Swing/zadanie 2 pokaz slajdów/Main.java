@@ -19,11 +19,11 @@ import javax.swing.Timer;
 
 public class Main {
 	
-	static int time;
-	static String path;
-	static double fontSize;
-	static List<String> list = new ArrayList<>();
-	static int i = 0;
+	protected static int time;
+	protected static String path;
+	protected static double fontSize;
+	protected static List<String> list = new ArrayList<>();
+	protected static int i = 0;
 
 
   public static void main(String[] args) {

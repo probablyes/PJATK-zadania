@@ -11,7 +11,6 @@ import java.io.StreamTokenizer;
 import java.util.*;
 import java.util.Map.Entry;
 
-
 public class CountWords {
 	
 	private String path;
@@ -22,15 +21,15 @@ public class CountWords {
 	
 	public List<String> getResult() throws Exception{
 		
-	    HashMap<String, Integer> map = new HashMap<>();	
-	    ArrayList<String> lista = new ArrayList<>();
-		
+	    Map<String, Integer> map = new HashMap<>();	
+	    List<String> lista = new ArrayList<>();
+	
 	    FileReader fis = new FileReader(path);
 	    StreamTokenizer st = new StreamTokenizer(fis);
 	    int t;
 	    while((t = st.nextToken()) != StreamTokenizer.TT_EOF){
 	    	if(t==StreamTokenizer.TT_WORD){
-	    		 lista.add((st.sval.toString()));	
+	    		 lista.add(st.sval);	
 	    	}
 	    }			
 	    List<String> wynik = new ArrayList<>();
@@ -40,9 +39,9 @@ public class CountWords {
 	    	if(!wynik.contains(word)){
 	    		wynik.add(word);
 	    	}
-		}
+	    }
 	    
-	   for (Entry<String, Integer> entry : map.entrySet()) {
+	    for (Entry<String, Integer> entry : map.entrySet()) {
 		      for (int i = 0; i < wynik.size(); i++) {
 				if(entry.getKey() == wynik.get(i)){
 					wynik.set(i, wynik.get(i) + " " + entry.getValue());

@@ -1,2 +1,3 @@
-Zadanie 1
-nic ciekawego.
+# Symulacje konta bankowego  
+Nie zanotowałem dokładnego polecenia - symulacja przelewów bankowych pomiędzy kontami. Stworzyć klasę "Account" z metodami deposit (wpłata na konto), transfer (przelanie pieniędzy na konto innej osoby), withdraw (wypłata), oraz statyczną metodę setInterestRate ustalajacą odsetki.    Przetestować działanie w klasie Banking tes i zabezpieczyć się na wypadek błędnych operacji.
+    

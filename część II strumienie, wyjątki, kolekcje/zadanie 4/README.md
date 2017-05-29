@@ -23,4 +23,4 @@ def 2
 ghi 1   
 
 Uwagi: 
-1. Pliku Main.java nie wolno modyfikowaæ. 2. Nazwa i umiejscowienie (katalog) pliku z tekstem s¹ obowi¹zkowe 3. S³owa - to ci¹gi znaków rozdzielone bia³ymi znakami i/lub znakami interpunkcji 
+1. Pliku Main.java nie wolno modyfikowaæ. 2. Nazwa i umiejscowienie (katalog) pliku z tekstem s¹ obowi¹zkowe 3. S³owa - to ci¹gi znaków rozdzielone bia³ymi znakami i/lub znakami interpunkcji 4. Nie mo¿na u¿yæ LinkedHashMap

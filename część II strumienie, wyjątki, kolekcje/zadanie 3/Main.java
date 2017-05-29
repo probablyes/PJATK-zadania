@@ -9,22 +9,24 @@ package Zad1;
 import java.io.FileReader;
 import java.io.StreamTokenizer;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Main {
 
   public static void main(String[] args) throws Exception {
     String fname = System.getProperty("user.home") + "/tab.txt";
+    FileReader fis = null;
 
     try {
-		FileReader fis = new FileReader(fname);
+	    fis = new FileReader(fname);
 	    StreamTokenizer st = new StreamTokenizer(fis);
-	    ArrayList<Integer> lista = new ArrayList<>();
+	    List<Integer> lista = new ArrayList<>();
 	    int token;
 	    
 	    while((token = st.nextToken()) != StreamTokenizer.TT_EOF){
 	    	if(token==StreamTokenizer.TT_NUMBER){
 	    		if(st.nval % 1 == 0){
-	    			token = (int)st.nval;
+	    			token = (int) st.nval;
 	    			lista.add(token);
 	    		}else{
 	    			throw new Exception();
@@ -32,7 +34,7 @@ public class Main {
 	    	}else if(token==StreamTokenizer.TT_WORD){
 	    		throw new Exception();
 	    	}
-	    }				
+	     }				
 		
 		int array[] = new int[lista.size()];
 		for (int i = 0; i < array.length; i++) {
@@ -55,15 +57,13 @@ public class Main {
 				System.out.print(i + " ");
 			}
 		}		
-	} catch (Exception e) {
+	}catch (Exception e) {
 		System.out.println("***");
 
+	}finally{
+		if (fis != null){
+			fis.close();
+		}
 	}
-  }
-  
- 
-  
-  
-  
-  
+  } 
 }
