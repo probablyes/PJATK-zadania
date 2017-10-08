@@ -61,4 +61,4 @@ Task ABORTED
    
 Uwaga 1. Plik Main.java mo¿e byæ modyfikowany tylko w miejscu oznaczonym /*<- */  
 Uwaga 2. Nie wolno uzywac metody System.exit(...)
-
+  
